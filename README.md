@@ -1,8 +1,8 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
-<h1 align="center">Hi , I'm Sleider García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Sleider García <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,14 +15,10 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-🎓 Actualmente estudio Ingeniería en Sistemas en la Universidad San Isidro Labrador.  
-💻 Me enfoco en desarrollo **web frontend y backend**, con conocimientos en **Java, HTML, CSS, JavaScript y MySQL**.  
-🚀 Estoy aprendiendo sobre inteligencia artificial y creando proyectos personales que aplican mis conocimientos.  
-⚡ Me gusta desarrollar interfaces limpias y sistemas funcionales que resuelvan problemas reales.
-
----
-
----
+🎓 I'm currently studying Computer Engineering at the **University San Isidro Labrador**.  
+💻 I focus on **frontend and backend web development**, with solid knowledge of **Java, HTML, CSS, JavaScript, and MySQL**.  
+🚀 I'm learning about Artificial Intelligence and building personal projects that apply my skills.  
+⚡ I enjoy developing clean interfaces and functional systems that solve real-world problems.
 
 ---
 
@@ -60,27 +56,27 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
+---
 
-### 🔥 Proyectos destacados
-- 🧑‍💻 **Sistema CRUD con Java y MySQL**  
-  Gestión de usuarios con operaciones básicas y diseño limpio.
+## 🔥 Featured Projects
+- 🧑‍💻 **User Management System (CRUD with Java & MySQL)**  
+  Basic operations for managing users with a clean UI.
 
-- 🌐 **Sitio web personal**  
-  Página estática con HTML, CSS y JS, diseño responsive.
+- 🌐 **Personal Website**  
+  Static responsive page built with HTML, CSS, and JavaScript.
 
-- 🌀 **Simulación de galaxias (Canvas)**  
-  Animación visual usando JavaScript Canvas y lógica de movimiento.
+- 🌀 **Galaxy Simulation (Canvas)**  
+  Interactive galaxy animation using JavaScript Canvas and physics.
 
-👉 Más proyectos disponibles en [mi GitHub](https://github.com/plowtty)
+👉 More projects available on [my GitHub](https://github.com/plowtty)
 
 ---
 
-### 📫 Contacto
-**📍 Siquirres, Costa Rica**  
-📧 marbrynan@gmail.com  
-🔗 *(Agregá LinkedIn aquí si tenés)*
+### 📫 Contact
+**📍 Location:** Siquirres, Costa Rica  
+📧 Email: marbrynan@gmail.com  
+🔗 *(Add your LinkedIn here if available)*
 
----
 ---
 
 ## 📊 GitHub Stats
@@ -93,4 +89,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=plowtty&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-> “El código es como el humor: cuando tienes que explicarlo, no es bueno.” – Cory House
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plowtty&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
