@@ -81,5 +81,16 @@
 🔗 *(Agregá LinkedIn aquí si tenés)*
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plowtty&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=plowtty&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 > “El código es como el humor: cuando tienes que explicarlo, no es bueno.” – Cory House
