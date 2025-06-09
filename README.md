@@ -65,8 +65,6 @@
 - 🌐 **Personal Website**  
   Static responsive page built with HTML, CSS, and JavaScript.
 
-- 🌀 **Galaxy Simulation (Canvas)**  
-  Interactive galaxy animation using JavaScript Canvas and physics.
 
 👉 More projects available on [my GitHub](https://github.com/plowtty)
 
