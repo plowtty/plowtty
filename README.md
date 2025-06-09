@@ -73,7 +73,6 @@
 ### 📫 Contact
 **📍 Location:** Siquirres, Costa Rica  
 📧 Email: marbrynan@gmail.com  
-🔗 *(Add your LinkedIn here if available)*
 
 ---
 
