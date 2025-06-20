@@ -32,7 +32,44 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- Añadido aquí -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+### 🧩 Frameworks / Libraries
+<span>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+
+### 🗃️ Databases
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</span>
+
+### 🔒 APIs & Security
+<span>
+  <img src="https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=rest&logoColor=white">
+  <img src="https://img.shields.io/badge/OAuth-3A3A3A?style=for-the-badge&logo=oauth&logoColor=white">
+</span>
+
+### 🧰 IDEs
+<span>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+### ⚙️ Other Tools and Technologies
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
 
@@ -61,15 +98,22 @@
 ---
 
 ## 🔥 Featured Projects
-- 🧑‍💻 **User Management System (CRUD with Java & MySQL)**  
-  Basic operations for managing users with a clean UI.
+🧑‍💻 User Management System (CRUD with Java & MySQL)
+Basic operations for managing users with a clean UI.
 
-- 🌐 **Personal Website**  
-  Static responsive page built with HTML, CSS, and JavaScript.
+🎮 Coin Flip Game
+An interactive web game that simulates flipping a coin, developed using HTML, CSS, and JavaScript.
 
+📲 QR Code Generator
+A responsive web app that allows users to generate QR codes from custom text or URLs.
 
-👉 More projects available on [my GitHub](https://github.com/plowtty)
+🛒 TechWorld Online Store
+A modern e-commerce website that showcases products, designed with responsive layouts and clean UI.
 
+🌐 Personal Website
+Static responsive page built with HTML, CSS, and JavaScript.
+
+👉 More projects available on my GitHub
 ---
 
 ### 📫 Contact
